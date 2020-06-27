@@ -1,4 +1,4 @@
-export const standardDeck = {
+﻿export const standardDeck = {
   style: 'standard',
   width: 100,
   height: 140,
